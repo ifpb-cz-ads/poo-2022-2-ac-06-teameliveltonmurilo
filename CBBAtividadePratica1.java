@@ -3,7 +3,7 @@ public class CBBAtividadePratica1{
         int[] array = new int[100];
         for (int i = 0; i<100; i++){
             array[i] = i;
-            System.out.println(i);
+            System.out.println(array[i]);
         }
     }
 }
